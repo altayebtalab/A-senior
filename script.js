@@ -9,7 +9,7 @@ const LogosContainer = document.querySelector('.carousel-logos');
 const logosCopy = logosSlide.cloneNode(true);
 
 // Append it to the Logo Container
-LogosContainer.appendChild(logosCopy);
+// LogosContainer.appendChild(logosCopy);
 
 /////////////////////////////////
 // FAQ Script
